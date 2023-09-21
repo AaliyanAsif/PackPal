@@ -37,6 +37,21 @@ h1 {
   padding: 2.4rem 0;
 }
 
+.logo-p {
+  text-align: center;
+  background-color: #f4a226;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  word-spacing: 5px;
+  /* letter-spacing: -5px; */
+  padding: 1.4rem 0;
+}
+
+.emoji {
+  font-size: 4rem;
+}
+
 .add-form {
   background-color: #e5771f;
   padding: 2.8rem 0;
