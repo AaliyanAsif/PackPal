@@ -6,6 +6,12 @@ PackPal is your go to packing partner. PackMate is a user-friendly and efficient
 
 ![screenshot](/public/ss.png)
 
+## Live site
+
+Here is a live site for the project for you to try out!
+
+- https://aaliyanasif.github.io/PackPal/
+
 ## Key Features
 
 ### Item Management
@@ -56,9 +62,3 @@ Experience the convenience of PackMate and take the hassle out of packing. Start
 ### What I learned
 
 I learned and used the basic fundamentals of React in this project, such as Components, Props, Conditional Rendering and array methods such as the map method. Along with the use of State in a project. Concepts such as uplifting a state and derived states.
-
-## Live site
-
-Here is a live site for the project for you to try out!
-
-- https://aaliyanasif.github.io/pizza-menu/
