@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PackPal/static/css/main.e4fa0043.css",
+    "main.js": "/PackPal/static/js/main.e663cd75.js",
+    "index.html": "/PackPal/index.html",
+    "main.e4fa0043.css.map": "/PackPal/static/css/main.e4fa0043.css.map",
+    "main.e663cd75.js.map": "/PackPal/static/js/main.e663cd75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4fa0043.css",
+    "static/js/main.e663cd75.js"
+  ]
+}
