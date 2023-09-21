@@ -1,4 +1,4 @@
-# Introducing "PackMate" - Your Ultimate Vacation Packing Companion! 👋
+# Introducing "PackPal" - Your Ultimate Vacation Packing Companion! 👋
 
 PackPal is your go to packing partner. PackMate is a user-friendly and efficient website designed to simplify your vacation packing experience. This packing tool combines functionality and ease of use to ensure you never forget an essential item again.
 
